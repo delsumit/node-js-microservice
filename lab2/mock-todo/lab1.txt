@@ -1,0 +1,8 @@
+2.Create  Todo Application using commonjs
+1.	Create Todo Service class
+2.	Add todo apis
+a.	findAll, - should return all todos
+b.	save  - should take todo object as parameter , should add into todo mock array.
+c.	Update – should update existing todo object inside array , return status like “todo has bee updated”
+d.	Remove -should remove existing todo object inside array,return status like “todo has been removed”
+3.	You must have todo mock-data as array.
